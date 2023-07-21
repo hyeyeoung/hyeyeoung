@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hy&fontSize=90)
 ### HyeYeoung~🍓
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeyeoung&show_icons=true&theme=radical)
