@@ -1,6 +1,6 @@
 <div align="center">
 
-# HyeYoung 🫥 
+# HyeYeoung 🫥 
 
 <img src="img/B03708A3-AAC5-45E5-AF9E-54F504E08088_1_105_c.jpeg" width="300" height="500"/>
 
