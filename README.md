@@ -1,6 +1,6 @@
 <div align="center">
 
-# HyeYeoung 🫥 
+# HyeYeoung 😊
 
 <img src="img/2F23D7C2-F55F-4026-8AE7-879EC9DD7AFB_1_105_c.jpeg" width="400" height="400"/>
 
